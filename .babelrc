@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "env",
+    "es2017",
+    "flow"
+  ],
+  "plugins": [
+    "transform-flow-strip-types"
+  ]
+}

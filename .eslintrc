@@ -1,8 +1,8 @@
 {
   "parser": "babel-eslint",
   "extends": [
-    # "airbnb-base",
-    # "plugin:flowtype/recommended"
+    "airbnb-base",
+    "plugin:flowtype/recommended"
   ],
   "env": {
     "browser": true,

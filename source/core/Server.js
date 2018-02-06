@@ -1,12 +1,16 @@
+/* @flow */
+
 import { EventEmitter } from 'events';
 
 import base64id from 'base64id';
 import websocket from 'ws';
 
-import ServerProtocolError from './errors/ServerProtocolError';
+import ServerProtocolError from '../errors/ServerProtocolError';
+
+import type { ServerOptions } from './Server.type';
 
 export default class Server extends EventEmitter {
-  constructor(options = {}) {
+  constructor(options: ServerOptions = {}) {
     super();
 
     var wssOptions = options;

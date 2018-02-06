@@ -1,5 +1,5 @@
 {
-  "name": "heather.ws.windows.service",
+  "name": "dogmatix.websocket.service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -58,10 +58,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cs1193/heather.ws.windows.service.git"
+    "url": "git+https://github.com/cs1193/dogmatix.websocket.service.git"
   },
   "bugs": {
-    "url": "https://github.com/cs1193/heather.ws.windows.service/issues"
+    "url": "https://github.com/cs1193/dogmatix.websocket.service/issues"
   },
-  "homepage": "https://github.com/cs1193/heather.ws.windows.service#readme"
+  "homepage": "https://github.com/cs1193/dogmatix.websocket.service#readme"
 }

@@ -45,6 +45,7 @@
     "http-status": "1.0.1",
     "method-override": "2.3.10",
     "moment": "2.20.1",
+    "moment-timezone": "0.5.14",
     "qs": "6.5.1",
     "uuid": "3.2.1",
     "uws": "9.14.0",
